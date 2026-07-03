@@ -69,8 +69,8 @@
 ### 📊 GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aykhan-badalov&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aykhan-badalov" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aykhanbadalov&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aykhanbadalov" alt="GitHub Streak" height="165"/>
 </p>
 ---
  
