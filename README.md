@@ -63,8 +63,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=aykhanbadalov&show_icons=true&hide_border=true&hide_rank=true&theme=github_dark&bg_color=0d1117" />
-    <img src="https://github-stats-extended.vercel.app/api?username=aykhanbadalov&show_icons=true&hide_border=true&hide_rank=true" alt="GitHub stats" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=aykhanbadalov&show_icons=true&hide_border=true&hide_rank=true&count_private=true&theme=github_dark&bg_color=0d1117" />
+    <img src="https://github-stats-extended.vercel.app/api?username=aykhanbadalov&show_icons=true&hide_border=true&hide_rank=true&count_private=true" alt="GitHub stats" height="165" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=aykhanbadalov&layout=compact&hide_border=true&hide=objective-c,objective-c%2B%2B&theme=github_dark&bg_color=0d1117" />
